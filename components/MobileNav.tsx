@@ -35,10 +35,10 @@ export default function MobileNav() {
                         src="/icons/logo.svg"
                         width={32}
                         height={32}
-                        alt="loom logo"
+                        alt="Adel meets logo"
                         className="max-sm:size-10"
                     />
-                    <p className="text-[26px] font-extrabold text-white ">Loom</p>
+                    <p className="text-[26px] font-extrabold text-white ">Adel Meets</p>
                 </Link>
 
                 <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
